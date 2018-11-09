@@ -1,8 +1,4 @@
-# Ultimate Vue.js Developers Course
-
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
-
-### Project 3: Vue.js Calendar
+# Vue.js Calendar
 
 #### Demo
 
@@ -57,4 +53,4 @@ Your site will be available at *localhost:[PORT]* where `PORT` is whatever value
 
 #### Lecture branches
 
-Note that branches in the repo named `lecture/xxx` correspond to course lectures.
+Note that branches in the repo named `video/xx` correspond to course lectures.
