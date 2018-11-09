@@ -1,9 +1,5 @@
 # Vue.js Calendar
 
-Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the case-study project from the course Build A Professional Vue App with Vuex Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny). Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering Server-Side Rendering
-
-
-
 #### Demo
 
 See the completed project here: [http://vuejs-calendar.vuejsdevelopers.com/](http://vuejs-calendar.vuejsdevelopers.com/)
